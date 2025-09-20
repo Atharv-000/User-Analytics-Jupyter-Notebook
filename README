@@ -1,0 +1,5 @@
+15. Export & Deployment notes
+Use the provided Dockerfile to containerize the Streamlit app.
+Use the mysql export snippet in the README to push results to MySQL.
+
+This step is not done yet.
